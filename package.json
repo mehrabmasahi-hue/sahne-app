@@ -1,0 +1,20 @@
+{
+  "name": "sahne_webapp",
+  "version": "1.0.0",
+  "description": "وب‌اپ فارسی و راست‌چین با ظاهر Liquid Glass بنفش، برای مدیریت شخصی تولید تئاتر.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@capacitor/cli": "^8.5.3"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/core": "^8.5.3"
+  }
+}
